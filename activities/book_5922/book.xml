@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="123" moduleid="5922" modulename="book" contextid="19810">
+  <book id="123">
+    <name>LD Assessment Process</name>
+    <intro>&lt;p&gt;2&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>0</numbering>
+    <customtitles>1</customtitles>
+    <timecreated>1462475472</timecreated>
+    <timemodified>1462476339</timemodified>
+    <chapters>
+      <chapter id="922">
+        <pagenum>5</pagenum>
+        <subchapter>0</subchapter>
+        <title>Problems with the IQ-Achievement model</title>
+        <content>&lt;h1 class="Subhead"&gt;Problems with the IQ-Achievement model&lt;/h1&gt;
+&lt;p&gt;Problems with the IQ/Achievement Discrepancy model of diagnosis include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;measurement error;&lt;/li&gt;
+&lt;li&gt;differences in testers’ skills;&lt;/li&gt;
+&lt;li&gt;cultural factors; and&lt;/li&gt;
+&lt;li&gt;differences in how various organizations determine “how much discrepancy” between IQ and achievement qualifies for a diagnosis of LD.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We can use special education prevalence rates as an example of the problem.&lt;/p&gt;
+&lt;p&gt;In Georgia, fewer than 3 percent of students receive services for LD, while in Rhode Island, 7 percent of students receive services for LD. We assume that this difference is not due to an actual higher prevalence rate in Rhode Island but to the difference in the IQ–achievement formula used to identify students. &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/GA_and_RI_illustration.jpg" width="537" height="274" alt="Maps of Georgia and Rhode Island, labeled “Georgia 3%” and “Rhode Island 7%. Title reads, “Students receiving services for LD.” " /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1468514496</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="923">
+        <pagenum>6</pagenum>
+        <subchapter>0</subchapter>
+        <title>Problems with the IQ-Achievement model (cont’d)</title>
+        <content>&lt;h1 class="Subhead"&gt;Problems with the IQ-Achievement model (cont’d)&lt;/h1&gt;
+&lt;p&gt;Another criticism of the IQ/Achievement-Discrepancy model is that students must fall behind academically before being diagnosed and qualifying for services. That is, the student has to have “enough of an achievement deficit” to qualify for services.&lt;/p&gt;
+&lt;p&gt;Given these issues, let’s examine a newer model for LD assessment being explored by the field.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462475840</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="924">
+        <pagenum>7</pagenum>
+        <subchapter>0</subchapter>
+        <title>Response to Intervention (RtI) model changes the focus of the problem</title>
+        <content>&lt;h1 class="Subhead"&gt;Response to Intervention (RtI) model changes the focus of the problem&lt;/h1&gt;
+&lt;p&gt;The most recent thinking on diagnosing and serving students in K-12 is to change the focus of the problem from the student to the teaching process.&lt;/p&gt;
+&lt;p&gt;This reframing calls for all students to receive high-quality instruction using scientifically based methods. Students would be assessed, but not to obtain a diagnosis. Rather, students would be assessed to determine progress and to inform teaching.&lt;/p&gt;
+&lt;p&gt;This combined instruction-assessment process is called &lt;b&gt;response to intervention (RtI)&lt;/b&gt;, and is now an allowable way to diagnose for LD in the most recent federal special education legislation.&lt;/p&gt;
+&lt;p&gt;Let’s take a closer look at the RtI model for combining assessment with measures that prevent LD from impeding expected educational progress. &lt;/p&gt;
+&lt;p&gt;&lt;span style="line-height: 1.231;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/78467721-1.jpg" width="550" height="367" alt="Photo of a teacher working with one of his adult education students." /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462557401</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="925">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Major issues in the LD assessment process</title>
+        <content>&lt;h1 class="Subhead"&gt;Major issues in the LD assessment process&lt;/h1&gt;
+&lt;p&gt;The field of LD is re-examining the typical process of diagnosing individuals as having LD. The work in this area is centered on school-age students, but may ultimately affect adult service providers by changing the diagnostic information provided to adult service providers by K-12 schools.&lt;/p&gt;
+&lt;p&gt;This work may also affect how adults are assessed for diagnosis, and lead to increased measures at the K-12 level focused on preventing LD from impeding expected educational progress.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462476375</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="926">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Two models for diagnosing LD</title>
+        <content>&lt;h1 class="Subhead"&gt;Two models for diagnosing LD&lt;/h1&gt;
+&lt;p&gt;Two models for diagnosing individuals as having LD are currently allowable by federal special education legislation: the &lt;b&gt;IQ-Achievement discrepancy model&lt;/b&gt;, which has been in use for many years, and the more recent assessment and prevention model known as &lt;b&gt;Response to Intervention (RtI)&lt;/b&gt;.&lt;/p&gt;
+&lt;p&gt;Let’s begin by examining the use of IQ and academic assessments for diagnosis.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462476406</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="927">
+        <pagenum>3</pagenum>
+        <subchapter>0</subchapter>
+        <title>IQ-Achievement model uses IQ test and achievement tests to identify LD</title>
+        <content>&lt;h1 class="Subhead"&gt;IQ-Achievement model uses IQ test and achievement tests to identify LD&lt;/h1&gt;
+&lt;p&gt;Under the &lt;b&gt;IQ-Achievement model&lt;/b&gt;, the traditional diagnostic process is to give an IQ test and achievement tests. If the achievement test scores are in line with the IQ score, then the person does not have LD.&lt;/p&gt;
+&lt;p&gt;To be considered an individual with LD, a person must exhibit average to above-average intelligence but have deficits within a narrow range of specific performance. If the person is achieving less than would be expected based on IQ, then an LD diagnosis is possible. This result is referred to as &lt;b&gt;unexpected underachievement&lt;/b&gt; because based on tested intelligence, one would expect the academic skills to be higher. &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/E000150_cropped.jpg" width="550" height="450" alt="Close-up photo of someone filling in a test answer sheet grid." /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462476476</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="928">
+        <pagenum>4</pagenum>
+        <subchapter>0</subchapter>
+        <title>Diagnostic assessment report for the IQ-Achievement model</title>
+        <content>&lt;h1 class="Subhead"&gt;Diagnostic assessment report for the IQ-Achievement model&lt;/h1&gt;
+&lt;p&gt;Under the IQ-Achievement model, a diagnostic assessment report should document the nature and severity of the LD. The LD should be described in terms of functional limitations and its impact on major life activities, including impact on learning. Specific recommendations for accommodations should include explanations of why accommodations are recommended and should match the individual’s pattern of strengths and needs. &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/clipboard_2.jpg" width="272" height="342" alt="A piece of paper on a clipboard with “Diagnostic report should include:” typed at the top of the page followed by three bullets: Nature and severity of the LD; Functional limitations and impact of LD on major life activities, including impact on learning; and Specific recommendations for accommodations and rationale. " /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462476529</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="929">
+        <pagenum>8</pagenum>
+        <subchapter>0</subchapter>
+        <title>RtI shows a shift away from using standardized tests to identify LD</title>
+        <content>&lt;h1 class="Subhead"&gt;RtI shows a shift away from using standardized tests to identify LD&lt;/h1&gt;
+&lt;p&gt;RtI is an alternative way to identify students for LD, as well as provide quality instruction to all students. RtI is a model that is being implemented in K-12, and is thus based on a regular classroom model with available special education services. Although not directly applicable to adult services, it shows a shift away from considering standardized tests as the best way to identify LD and towards focusing resources on learning for all students. &lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462476587</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="930">
+        <pagenum>9</pagenum>
+        <subchapter>0</subchapter>
+        <title>Activity: Reflect on the use of RtI Response to Intervention (RtI) model</title>
+        <content>&lt;h1 class="Subhead"&gt;Activity: Reflect on the use of RtI Response to Intervention (RtI) model&lt;/h1&gt;
+&lt;p&gt;Take a moment and consider the following question.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;How might adult services be affected if school systems used RtI as the process for teaching, prevention and assessment?   &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;After you have thought about your answer, click the &lt;b&gt;forward arrow&lt;/b&gt; for some ideas on how adult services might be affected if school systems used RtI.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462547179</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="931">
+        <pagenum>10</pagenum>
+        <subchapter>0</subchapter>
+        <title>Advantages of using RtI</title>
+        <content>&lt;h1 class="Subhead"&gt;Advantages of using RtI&lt;/h1&gt;
+&lt;p&gt;While other answers may apply, if school systems used RtI, perhaps more students would receive the literacy instruction they need, since they wouldn’t have to show a big gap in achievement before getting help (Tier 1 and Tier 2). &lt;/p&gt;
+&lt;p&gt;In addition, under RtI, students with the greatest needs would get individualized, intensive services early and, it is hoped, for as long as they need them. Thus, it is possible that fewer young students would need adult literacy services, and those that do, would have established support systems for their disability.&lt;/p&gt;
+&lt;p&gt;Note that it is still unclear how the decrease in standardized testing under RtI would be transferable into postsecondary education services, GED testing accommodations processes, or others currently providing services to adults with learning disabilities.&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #800000;"&gt;Continue on to the Conclusion&lt;/span&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462547224</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

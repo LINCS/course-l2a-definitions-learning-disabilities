@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="114" moduleid="5913" modulename="book" contextid="19801">
+  <book id="114">
+    <name>LD Definitions</name>
+    <intro>&lt;p&gt;intro book 2&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>0</numbering>
+    <customtitles>1</customtitles>
+    <timecreated>1462216436</timecreated>
+    <timemodified>1462216436</timemodified>
+    <chapters>
+      <chapter id="876">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Understanding the differences</title>
+        <content>&lt;h1 class="Subhead"&gt;Understanding the differences&lt;/h1&gt;
+&lt;p&gt;There is a difference between learning preferences, learning difficulties, and learning disabilities. This topic examines each term closely to understand their meaning.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/LD_VennDiagram.jpg" width="550" height="419" alt="Venn diagram of three concentric ovals. The largest oval is labeled “Learning Preferences.” The middle oval is labeled “Learning Difficulties.” The smallest oval is labeled “Learning Disabilities.”" /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462301388</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="877">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Learning preferences</title>
+        <content>&lt;h1 class="Subhead"&gt;Learning preferences&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;Learning preferences&lt;/b&gt; are conditions of learning that one finds helpful. Some of us are great in the morning; others of us are better at night. Some like charts or graphs; others prefer a story. Some like to discuss; others prefer to listen.&lt;/p&gt;
+&lt;p&gt;Having a learning preference does not mean that a person who likes to discuss cannot learn from a lecture, or that a night owl cannot learn in the morning. Learning preferences are ways of learning that are helpful but not necessary.&lt;/p&gt;
+&lt;p&gt;Learning preferences are represented by the largest circle because they apply to all of us.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Venn_Collage_Preferences.jpg" width="550" height="317" alt="Venn diagram of three concentric ovals. The largest oval is labeled “Learning Preferences.” The middle oval is labeled “Learning Difficulties.” The smallest oval is labeled “Learning Disabilities.” The largest oval is highlighted and the other two are grayed out. Four photos depicting adults in various learning modes. Caption: “Learning preferences apply to everyone.”" /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462301033</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="878">
+        <pagenum>3</pagenum>
+        <subchapter>0</subchapter>
+        <title>Learning difficulties</title>
+        <content>&lt;h1 class="Subhead"&gt;Learning difficulties&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;Learning difficulties&lt;/b&gt; arise when a specific task or circumstance in the learning environment inhibits an individual’s ability to learn. Examples include having to listen to someone speak in a monotone, trying to pay attention in a very cold or hot room, or attending a lecture with no opportunity for questions and answers. These are conditions that make learning difficult for many of us.&lt;/p&gt;
+&lt;p&gt;Learning difficulties can extend to specific learning tasks. For example, it is not uncommon for an individual to be good at math but find it difficult to stay motivated to finish reading a novel. Another person may be gifted at understanding history &lt;i&gt;concepts&lt;/i&gt; but be challenged in memorizing &lt;i&gt;dates&lt;/i&gt;. &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Ven_Collage_Difficulties.jpg" width="550" height="317" alt="Venn diagram of three concentric ovals. The largest oval is labeled “Learning Preferences.” The middle oval is labeled “Learning Difficulties.” The smallest oval is labeled “Learning Disabilities.” The middle oval is highlighted and the other two are grayed out. Two photos depicting adults struggling to comprehend. Caption: “Learning difficulties depend on circumstances or specific tasks.”" /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462301129</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="879">
+        <pagenum>4</pagenum>
+        <subchapter>0</subchapter>
+        <title>Learning disabilities</title>
+        <content>&lt;h1 class="Subhead"&gt;Learning disabilities&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;Learning disabilities&lt;/b&gt; are represented by a smaller circle because they apply to only some of us in any given situation.&lt;/p&gt;
+&lt;p&gt;Learning disabilities is a legal term for a neurological condition within the individual that makes one or more of the processes associated with learning extremely difficult.&lt;/p&gt;
+&lt;p&gt;Individuals with LD are protected by laws and have legal rights. Thus “Learning disabilities” are represented by the smallest circle in our diagram, because this designation is applicable to only a specific group of learners. &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Venn_collage_Disabilities.jpg" width="550" height="317" alt="Venn diagram of three concentric ovals. The largest oval is labeled “Learning Preferences.” The middle oval is labeled “Learning Difficulties.” The smallest oval is labeled “Learning Disabilities.” The smallest oval is highlighted and the other two are grayed out. Two illustrations depict a human head, showing the brain and blood vessels and nerves leading to it, and a gavel with law books and the “scales of justice,” suggesting legal issues. Caption: “The term “Learning disabilities” applies only to a specific group of learners.”" /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462301365</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="880">
+        <pagenum>5</pagenum>
+        <subchapter>0</subchapter>
+        <title>Activity: Build a working definition of LD</title>
+        <content>&lt;h1&gt;&lt;span style="line-height: 1.231;"&gt;Activity: Build a working definition of LD&lt;/span&gt;&lt;/h1&gt;
+&lt;p&gt;Let’s explore your current understanding of LD. This activity asks you to use your answers to three questions to build a working definition of LD based on your knowledge and experience. Use a blank piece of paper to write your responses.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;First, consider your own perspective on learning disabilities. How would you define LD. For example, how would you explain LD to a student?&lt;/li&gt;
+&lt;li&gt;Next, consider LD from a programmatic perspective. How does your organization define LD?&lt;/li&gt;
+&lt;li&gt;Then, consider how LD affects an individual. What are some examples of behaviors that would indicate that an individual may haved a learning disability?&lt;/li&gt;
+&lt;li&gt;Now, considering each of your answers to the first three questions, generate a working definition of LD based on your knowledge and experience.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;We will ask you to refer back to your definition at the end of this lesson. As we move on to examine others’ perspectives, you will see that there are many different opinions about the definition of LD. &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/clipboard_1.jpg" width="345" height="415" alt="A piece of paper on a clipboard with “Working Definition of LD” typed at the top of the page. and four numbered writing prompts: 1. To me, LD is…; 2. My organization defines LD as…; 3. Some examples of behaviors are…; 4. My working definition of LD is…" /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #800000;"&gt;Continue on to LD Consensus Definition&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1468501646</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

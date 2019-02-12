@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="115" moduleid="5914" modulename="book" contextid="19802">
+  <book id="115">
+    <name>LD Consensus Definition</name>
+    <intro>&lt;p&gt;intro book 3&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>0</numbering>
+    <customtitles>1</customtitles>
+    <timecreated>1462216436</timecreated>
+    <timemodified>1462302462</timemodified>
+    <chapters>
+      <chapter id="881">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Hidden disabilities</title>
+        <content>&lt;h1 class="Subhead"&gt;Hidden disabilities&lt;/h1&gt;
+&lt;p&gt;In effect, LD are hidden disabilities. They do not become apparent until individuals attempt tasks that are affected by their LD. As long as the individual can avoid tasks such as reading, math calculation, or math problem solving, the disability is not apparent.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/80508779.jpg" width="600" height="600" alt="Photo of a smiling hotel housekeeper delivering fresh towels." /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462302555</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="882">
+        <pagenum>3</pagenum>
+        <subchapter>0</subchapter>
+        <title>Office of Special Education: SLD Initiative</title>
+        <content>&lt;h1 class="Subhead"&gt;Office of Special Education: SLD Initiative&lt;/h1&gt;
+&lt;p&gt;The best and most current guidance we have on the definition of LD is based on work done by the U.S. Department of Education. In 1999, the Office of Special Education Programs within the department began what was called the SLD Initiative. SLD stands for “specific learning disabilities.”&lt;/p&gt;
+&lt;p&gt;As part of this initiative, a group of 10 organizations was convened, representing parents, employers, state and local practitioners, researchers and policy developers, and individuals with LD, representing perspectives from Postsecondary, Vocational, and K-12 School settings.&lt;b&gt; &lt;/b&gt;These groups were asked to develop consensus statements about the nature of LD. &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;table border="1" cellpadding="5" align="left" style="border: 1px solid #7a7a7a; background-color: #ffffff; border-width: 1px;" cellspacing="0" frame="vsides"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td colspan="2" style="background-color: #021ba0;"&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="font-size: medium; color: #ffffff;"&gt;&lt;strong&gt;SLD Initiative&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #5f686d;"&gt;&lt;span style="font-size: small;"&gt;&lt;strong&gt;Groups&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #5f686d;"&gt;&lt;span style="font-size: small;"&gt;&lt;strong&gt;Settings&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left" style="border: 1px solid #4b5158;"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: small;"&gt;Parents&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: small;"&gt;Employers&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: small;"&gt;State and local practitioners&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: small;"&gt;Researchers&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: small;"&gt;Policy developers&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 1.231; font-size: small;"&gt;Individuals with LD&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;td align="left" style="border: 1px solid #4b5158;"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: small;"&gt;Postsecondary&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 1.231; font-size: small;"&gt;Vocational and career&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: small;"&gt;K-12 schools&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462557011</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="883">
+        <pagenum>4</pagenum>
+        <subchapter>0</subchapter>
+        <title>Consensus definition of SLD</title>
+        <content>&lt;h1 class="Subhead"&gt;Consensus definition of SLD&lt;/h1&gt;
+&lt;p&gt;The SLD initiative involved a series of meetings and papers, and the development of a research-to-practice document. The group provided an overall statement defining LD. Let’s look at the consensus definition.&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;“Strong converging evidence supports the validity of the concept of SLD (specific learning disabilities). This evidence is particularly impressive because it converges across different indicators and methodologies. The central concept of SLD involves disorders of learning and cognition that are intrinsic to the individual. SLD are specific in the sense that these disorders each significantly affect a relatively narrow range of academic and performance outcomes. SLD may occur in combination with other disabling conditions, but they are not due primarily to other conditions, such as mental retardation, behavioral disturbance, lack of opportunities to learn, or primary sensory deficits.”&lt;/p&gt;
+&lt;p&gt;Consider for a moment, what are some major points in this consensus definition? When you are done with your reflections, please click the &lt;b&gt;forward arrow&lt;/b&gt; for some key points.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462303668</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="884">
+        <pagenum>5</pagenum>
+        <subchapter>0</subchapter>
+        <title>Key points of consensus SLD definition</title>
+        <content>&lt;h1 class="Subhead"&gt;Key points of consensus SLD definition&lt;/h1&gt;
+&lt;p&gt;During your reflections, you may have drawn main points similar to these:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;LD is a valid concept.&lt;/li&gt;
+&lt;li&gt;There is convincing evidence to support this condition.&lt;/li&gt;
+&lt;li&gt;It is a disability that affects learning and cognition.&lt;/li&gt;
+&lt;li&gt;It is based on conditions within individuals.&lt;/li&gt;
+&lt;li&gt;It affects specific academic and functional tasks.&lt;/li&gt;
+&lt;li&gt;It is possible to have LD with other conditions, but those conditions are not the cause for the LD.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please note that the consensus definition uses the term “specific learning disabilities,” or SLD. In this Learning to Achieve program, however, we will consistently refer to specific learning disabilities as learning disabilities, or LD.&lt;/p&gt;
+&lt;p class="Label"&gt; &lt;/p&gt;
+&lt;p class="Prompt"&gt;&lt;span style="color: #993300;"&gt;Continue on to Guiding Question #1, Overview and Consensus Statement #1&lt;/span&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462557043</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="885">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Contributors to the LD definition controversy and debate</title>
+        <content>&lt;h1 class="Subhead"&gt;Contributors to the LD definition controversy and debate&lt;/h1&gt;
+&lt;p&gt;There has been and continues to be controversy and debate in the field over how to define LD. The reasons for the controversy are complex, and include the following.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;LD cannot be easily observed.&lt;/li&gt;
+&lt;li&gt;How LD are defined affects funding for many different organizations.&lt;/li&gt;
+&lt;li&gt;How LD are defined affects access to services for many different individuals.&lt;/li&gt;
+&lt;li&gt;The field’s understanding of LD has changed over time.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;While all of these issues contribute to the controversy and debate over the definition of LD, it is particularly important to note  the first reason— &lt;b&gt;learning disabilities cannot be easily observed&lt;/b&gt;. Click the &lt;b&gt;forward arrow&lt;/b&gt; to find out why this is the case.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462302493</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

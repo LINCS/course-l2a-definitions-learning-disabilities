@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="117" moduleid="5916" modulename="book" contextid="19804">
+  <book id="117">
+    <name>Consensus Statement #2</name>
+    <intro>&lt;p&gt;section 1 of Session 1&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>0</numbering>
+    <customtitles>1</customtitles>
+    <timecreated>1462304248</timecreated>
+    <timemodified>1462308922</timemodified>
+    <chapters>
+      <chapter id="892">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>LD are based in the brain</title>
+        <content>&lt;h1 class="Subhead"&gt;LD are based in the brain&lt;/h1&gt;
+&lt;p&gt;We’ve examined the first of our 6 consensus statements. Let’s move on to our second consensus statement. &lt;b&gt;“&lt;/b&gt;&lt;b&gt;LD are neurologically based and intrinsic to the individual.&lt;/b&gt;”&lt;/p&gt;
+&lt;p&gt;Although difficult to measure, LD are neurologically based and intrinsic to the individual. This means that the disability is based in the brain.  For example, researchers, through the use of functional MRI, are able to see differences in the brain functioning of individuals who are normal readers and those who are poor readers. &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/BrainSacns.jpg" width="553" height="320" alt="Two labeled photos depicting the brains of a normal reader and a poor reader." /&gt;&lt;/p&gt;
+&lt;p class="Graphic"&gt;&lt;span style="font-size: x-small;"&gt;Images from:&lt;i&gt; Focus on Basics &lt;/i&gt;(August 2001) &lt;i&gt;The Neurobiology of Reading and Dyslexia&lt;/i&gt;, by Sally E. Shaywitz, M.D., and  Bennett A. Shaywitz, M.D.&lt;/span&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462307121</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="893">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Early, ongoing interventions can have positive effects</title>
+        <content>&lt;h1 class="Subhead"&gt;Early, ongoing interventions can have positive effects&lt;/h1&gt;
+&lt;p&gt;Research is also showing that early and ongoing reading interventions can positively affect brain functioning and associated reading skills. &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/146056025.jpg" width="550" height="367" alt="Photo of a mother reading with her young daughter." /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462307274</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="894">
+        <pagenum>3</pagenum>
+        <subchapter>0</subchapter>
+        <title>﻿More information on brain research</title>
+        <content>&lt;h1&gt;&lt;strong&gt;&lt;/strong&gt;More information on brain research&lt;/h1&gt;
+&lt;p&gt;While neuroscientific research is deepening our understanding of LD, it is just beginning to offer us practical information in terms of diagnosis and teaching. More information on brain research and its implications for adults with LD can be found in the &lt;a href="https://courses.lincs.ed.gov/1/" target="_blank"&gt;LINCS Learning Disabilities and Neuroscience module&lt;/a&gt; of the Learning to Achieve online learning series.&lt;/p&gt;
+&lt;p&gt;&lt;span style="line-height: 1.231;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/144340108.jpg" width="570" height="380" alt="Photo of a medical professional sitting at a computer which has a brain image on the monitor." /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #800000;"&gt;Continue on to Consensus Statement #3&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1468508414</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

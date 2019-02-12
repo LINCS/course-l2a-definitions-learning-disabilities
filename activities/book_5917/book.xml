@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="118" moduleid="5917" modulename="book" contextid="19805">
+  <book id="118">
+    <name>Consensus Statement #3</name>
+    <intro>&lt;p&gt;section 3 of Session 1&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>0</numbering>
+    <customtitles>1</customtitles>
+    <timecreated>1462304248</timecreated>
+    <timemodified>1462309738</timemodified>
+    <chapters>
+      <chapter id="895">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Individuals with LD show intra-individual differences</title>
+        <content>&lt;h1 class="Subhead"&gt;Individuals with LD show intra-individual differences&lt;/h1&gt;
+&lt;p&gt;We will now move on to the third consensus statement. “&lt;b&gt;Individuals with LD show intra-individual differences in skills and abilities.&lt;/b&gt;”&lt;/p&gt;
+&lt;p&gt;Intra-individual differences are differences in ability &lt;i&gt;within &lt;/i&gt;an individual. For example, Mary may be good at public speaking, but becomes easily frustrated when trying to read, or a person may be great conversationalist, but have difficulty writing.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/92410288.jpg" width="550" height="469" alt="Illustration of a human head in profile, with jigsaw pieces fitting together inside the brain." /&gt;&lt;/p&gt;
+&lt;p class="Graphic"&gt;&lt;span style="font-size: x-small;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462310007</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="896">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Intra-individual differences show a pattern of strengths and weaknesses</title>
+        <content>&lt;h1 class="Subhead"&gt;Intra-individual differences show a pattern of strengths and weaknesses&lt;/h1&gt;
+&lt;p&gt;For adults, these differences can affect a range of cognitive processes evident in academic achievement, employment and daily living activities. These differences show a pattern of strengths and weaknesses.&lt;/p&gt;
+&lt;p&gt;For example, an individual may be a slow and labored reader, but do well with math calculation or measurement.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/147306567.jpg" width="550" height="445" alt="Photo of a construction worker using a tape measure." /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462310109</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="897">
+        <pagenum>3</pagenum>
+        <subchapter>0</subchapter>
+        <title>Marked performance differences in specific areas of functioning are a sign of LD</title>
+        <content>&lt;h1 class="Subhead"&gt;Marked performance differences in specific areas of functioning are a sign of LD&lt;/h1&gt;
+&lt;p&gt;As another example, an individual may be able to read well at the word level, but have great difficulty comprehending what he or she has read. Just being able to read individual words is not enough to comprehend text. Individuals must be able to think about what they read by engaging in thinking skills such as making inferences, visualizing a person or scene, or making connections between what they are reading and their own experiences.&lt;/p&gt;
+&lt;p&gt;Each of these individuals exhibit profiles that may indicate learning disabilities because of marked performance difference in specific areas of functioning. Let’s look more deeply into what these ‘differences within the individual’ can mean. We will start out with characteristics identified by special education legislation.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/87719407.jpg" width="550" height="366" alt="Photo of a a young man struggling to understand a document." /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462310197</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="898">
+        <pagenum>4</pagenum>
+        <subchapter>0</subchapter>
+        <title>Intra-individual differences identified by special education regulations</title>
+        <content>&lt;div class="WordSection1"&gt;
+&lt;h1 class="Subhead"&gt;Intra-individual differences identified by special education regulations&lt;/h1&gt;
+&lt;p&gt;Specific intra-individual differences indicating learning disabilities are identified by special education regulations of the U.S. Department of Education. These areas focus on academic skills.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="WordSection2"&gt;
+&lt;table border="0" cellpadding="0" style="width: 520px; height: 72px;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: small;"&gt;Oral expression&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: small;"&gt;Listening comprehension&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: small;"&gt;Mathematics calculation&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: small;"&gt;Mathematics problem solving&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="line-height: 1.231; font-size: small;"&gt;Basic reading skills&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: small;"&gt;Reading fluency skills&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: small;"&gt;Reading comprehension&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: small;"&gt;Written expression&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;span style="line-height: 1.231;"&gt;For example, an individual could be very orally expressive and tell you the details of the latest story in the news. Or he could listen to a story and tell you every detail but not be able to write a sentence. &lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;span style="line-height: 1.231;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="line-height: 1.231;"&gt;&lt;img src="@@PLUGINFILE@@/115990775.jpg" width="550" height="367" alt="Photo of three adult students collaborating on an assignment." /&gt;&lt;/span&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462310413</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="899">
+        <pagenum>5</pagenum>
+        <subchapter>0</subchapter>
+        <title>Intra-individual differences include learning strengths and weaknesses</title>
+        <content>&lt;h1 class="Subhead"&gt;Intra-individual differences include learning strengths and weaknesses&lt;/h1&gt;
+&lt;p&gt;Some individuals have limited ability to read words in isolation – like on a prescription label, but they are able to slowly make their way through reading passages and tell you what the main point of the passage is with great insight.&lt;/p&gt;
+&lt;p&gt;The individual variability is great. The key is that there are learning strengths combined with areas of distinct weaknesses.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/94233595.jpg" width="550" height="367" alt="Photo of an older couple examining a pill bottle." /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462310475</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="900">
+        <pagenum>6</pagenum>
+        <subchapter>0</subchapter>
+        <title>Additional resources on special education regulations</title>
+        <content>&lt;h1 class="Subhead"&gt;Additional resources on special education regulations&lt;/h1&gt;
+&lt;p&gt;For more information on the relevant special education regulations, visit the &lt;a href="http://idea.ed.gov/explore/home" target="_blank"&gt;U.S. Department of Education, Office of Special Education Programs’ Individuals with Disabilities Act (IDEA) website.&lt;/a&gt; Also, be sure to explore the additional resources provided at the end of this module.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/SS_Idea_Ed_Gov.jpg" width="550" height="494" alt="Screenshot of the U.S. Department of Education’s IDEA website." /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462310707</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="901">
+        <pagenum>7</pagenum>
+        <subchapter>0</subchapter>
+        <title>Intra-individual differences identified by Rehabilitation Services Administration</title>
+        <content>&lt;h1 class="Subhead"&gt;Intra-individual differences identified by Rehabilitation Services Administration&lt;/h1&gt;
+&lt;p&gt;If we look to the field of vocational rehabilitation, which is an adult service, we see additional areas identified as intra-individual differences. Areas where strengths and weaknesses may vary include the following:&lt;/p&gt;
+&lt;table border="0" cellpadding="0" cellspacing="0" style="width: 490px; height: 84px;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span&gt;• &lt;/span&gt;Attention&lt;/td&gt;
+&lt;td&gt;• Writing&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span&gt;• &lt;/span&gt;Reasoning&lt;/td&gt;
+&lt;td&gt;&lt;span&gt;• &lt;/span&gt;Spelling&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span&gt;• &lt;/span&gt;Processing&lt;/td&gt;
+&lt;td&gt;&lt;span&gt;• &lt;/span&gt;Calculation&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span&gt;• &lt;/span&gt;Memory&lt;/td&gt;
+&lt;td&gt;&lt;span&gt;• &lt;/span&gt;Physical coordination&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span&gt;• &lt;/span&gt;Communication&lt;/td&gt;
+&lt;td&gt;&lt;span&gt;• &lt;/span&gt;Social competence&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span&gt;• &lt;/span&gt;Reading&lt;/td&gt;
+&lt;td&gt;&lt;span&gt;• &lt;/span&gt;Emotional maturity&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462393782</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="902">
+        <pagenum>8</pagenum>
+        <subchapter>0</subchapter>
+        <title>Broader set of intra-individual differences describe general areas of importance</title>
+        <content>&lt;h1 class="Subhead"&gt;Broader set of intra-individual differences describe general areas of importance&lt;/h1&gt;
+&lt;p&gt;As compared to special education regulations of the U.S. Department of Education, the Rehabilitation Services Administration has developed a broader set of intra-individual differences that can be attributed to LD. These are more general areas important to adult life that can contribute to poor adult functioning. This broad list is less accepted by the field.&lt;/p&gt;
+&lt;p&gt;This broader set of intra-individual differences could describe the brilliant businessperson who cannot remember to keep track of appointments, the skilled craftsman who cannot take or follow directions from others, and the poised and polished office worker who is afraid to send e-mails owing to his or her poor spelling and grammar.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Man_checkingWatch.jpg" width="550" height="424" alt="Photo of a businessman checking his watch. " /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462394138</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="903">
+        <pagenum>9</pagenum>
+        <subchapter>0</subchapter>
+        <title>Activity: Reflect on your experiences with adults with intra-individual differences</title>
+        <content>&lt;h1 class="Subhead"&gt;Activity: Reflect on your experiences with adults with intra-individual differences&lt;/h1&gt;
+&lt;p&gt;Take a moment to think about the adults you have known who demonstrated significant intra-individual differences. Consider your answers to the following questions:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;What kinds of significant intra-individual differences have you observed in the adults you’ve known?&lt;/li&gt;
+&lt;li&gt;Do you think that any of these adults had a diagnosed LD?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Please share your reflections and read other teachers’ responses in the &lt;a href="https://community.lincs.ed.gov/group/disabilities-adult-education" target="_blank"&gt;LINCS Disabilities in Adult Education Group&lt;/a&gt; before moving on.&lt;/p&gt;
+&lt;p&gt;When you have finished posting your reflections, &lt;span style="color: #800000;"&gt;continue to Consensus Statement #4.&lt;/span&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462549487</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

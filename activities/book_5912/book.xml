@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="113" moduleid="5912" modulename="book" contextid="19800">
+  <book id="113">
+    <name>Introduction</name>
+    <intro>&lt;p&gt;book intro&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>0</numbering>
+    <customtitles>1</customtitles>
+    <timecreated>1461878135</timecreated>
+    <timemodified>1461878135</timemodified>
+    <chapters>
+      <chapter id="870">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Welcome to this LINCS module</title>
+        <content>&lt;h1 class="Subhead"&gt;Welcome to this LINCS module&lt;/h1&gt;
+&lt;p&gt;Welcome to the &lt;i&gt;Definitions of Learning Disabilities &lt;/i&gt;module of the Learning to Achieve Program, a research-based training on serving adults with learning disabilities. This program is brought to you by the Literacy Information and Communication System (LINCS).&lt;/p&gt;
+&lt;p&gt;This course was developed under the LINCS Regional Professional Development Center for Adult Education, PR/Award Number V191B110003, administered by the Office of Career, Technical, and Adult Education, U. S. Department of Education. However, the contents do not necessarily represent the positions or policies of the Office of Career, Technical, and Adult Education or the U.S. Department of Education, and you should not assume endorsement by the Federal Government.&lt;/p&gt;
+&lt;p&gt;Click the &lt;b&gt;forward arrow &lt;/b&gt;to begin.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1461878655</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="871">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Join the LINCS Community and participate in course discussions</title>
+        <content>&lt;h1 class="Subhead"&gt;Join the LINCS Community and participate in course discussions&lt;/h1&gt;
+&lt;p&gt;This module is designed for teachers of adult learners with learning disabilities (LD). As with all LINCS courses, this course includes opportunities to connect with other adult education practitioners interested in the field of LD. If you haven’t already done so, take a moment to register as a member of the &lt;a href="https://community.lincs.ed.gov/"&gt;LINCS Community&lt;/a&gt; and participate in the discussions embedded throughout this module. The discussions provide an open forum to share your thoughts, ideas, and questions with other adult education practitioners.&lt;/p&gt;
+&lt;p&gt;Throughout this module, you will have the opportunity to share your stories and insights as you gain an understanding of learning disabilities. This is a great opportunity to share and learn from others. We encourage you to participate!&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/LINCS_commPg_04_27.jpg" width="537" height="528" alt="screen shot of LINCS community page" /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462556779</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="872">
+        <pagenum>3</pagenum>
+        <subchapter>0</subchapter>
+        <title>Module objectives</title>
+        <content>&lt;h1 class="Subhead"&gt;Module objectives&lt;/h1&gt;
+&lt;p&gt;This module uses two guiding questions to examine current trends and issues in defining learning disabilities (LD).&lt;/p&gt;
+&lt;p&gt;Upon completion of this module, you will be able to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;describe and explain a consensus definition of learning disabilities (LD) and its application;&lt;/li&gt;
+&lt;li&gt;identify some behaviors that indicate an individual may have a learning disability; and&lt;/li&gt;
+&lt;li&gt;explain how the controversy and debate in the field of LD may affect adult service providers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please allow approximately 1.5 hours to complete this module. However, you are free to leave the session at any time. When you exit the courseware, a bookmark is automatically placed at your last location to allow you to pick up where you left off when you return.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1461879006</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="873">
+        <pagenum>4</pagenum>
+        <subchapter>0</subchapter>
+        <title>Guiding questions</title>
+        <content>&lt;h1 class="Subhead"&gt;Guiding questions&lt;/h1&gt;
+&lt;p&gt;To help guide our learning, we will refer to two key questions.&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Guiding question #1:&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;span style="line-height: 1.231;"&gt;What are &lt;/span&gt;&lt;b style="line-height: 1.231;"&gt;six consensus statements&lt;/b&gt;&lt;span style="line-height: 1.231;"&gt; that help us understand the definition of LD?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="line-height: 1.231;"&gt;_______&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Guiding question #2:&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;span style="line-height: 1.231;"&gt;What are &lt;/span&gt;&lt;b style="line-height: 1.231;"&gt;examples from your work&lt;/b&gt;&lt;span style="line-height: 1.231;"&gt; with adults with LD that are associated with the six consensus statements?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Before we answers to these questions, click the &lt;b&gt;forward arrow&lt;/b&gt; to examine the language we use to describe individuals with learning challenges.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1461879113</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="874">
+        <pagenum>5</pagenum>
+        <subchapter>0</subchapter>
+        <title>Activity: Identify descriptors of LD</title>
+        <content>&lt;h1 class="Subhead"&gt;Activity: Identify descriptors of LD&lt;/h1&gt;
+&lt;p&gt;Reflect for a moment on your experiences. What are some ways we describe individuals who struggle with learning?&lt;/p&gt;
+&lt;p&gt;For example, a teacher might say she has a student who has learning challenges. What other terms have you heard before?&lt;/p&gt;
+&lt;p&gt;Take a few minutes to list a few of the terms you have heard (or used) to describe these individuals. When you have finished making your list, click the &lt;b&gt;forward arrow&lt;/b&gt; to see some common descriptors.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/87722722.jpg" width="600" height="399" alt="Photo of a teacher checking in with an adult female student while other adult students work in the background." /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462216312</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="875">
+        <pagenum>6</pagenum>
+        <subchapter>0</subchapter>
+        <title>Terms commonly used to describe LD</title>
+        <content>&lt;h1 class="Subhead"&gt;Terms commonly used to describe LD&lt;/h1&gt;
+&lt;p&gt;We use many different terms that are less stigmatizing than “learning disabilities.” These are a few common terms used to describe individuals who struggle with learning:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Learning differences&lt;/li&gt;
+&lt;li&gt;Learning difficulties&lt;/li&gt;
+&lt;li&gt;Learning challenges&lt;/li&gt;
+&lt;li&gt;Learning disorders&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For example, many individuals prefer to use the descriptor “learning differences” rather than labeling an individual as having “learning disabilities.”  Having LD means something very specific.&lt;/p&gt;
+&lt;p&gt;In the next topic we will clarify what it means to have LD as opposed to a learning difficulty, difference, or challenge. &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #800000;"&gt;Continue on to LD Definitions&lt;/span&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462304079</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

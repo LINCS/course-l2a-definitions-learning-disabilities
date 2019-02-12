@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1372" moduleid="5926" modulename="page" contextid="19814">
+  <page id="1372">
+    <name>Course Resources</name>
+    <intro>&lt;p&gt;resources&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;h1 style="text-align: left;"&gt;Course Resources&lt;/h1&gt;
+&lt;p style="text-align: left;"&gt;These resources are good sources of more in-depth knowledge of the concepts and practices taught in this course. Use the resources to apply the concepts and to expand your knowledge of integrating the science practices into your adult education classroom.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt; &lt;/p&gt;
+&lt;h2 style="text-align: left;"&gt;Links to Explore&lt;/h2&gt;
+&lt;p style="text-align: left;"&gt;Topic Brief: Identification of Specific Learning Disabilities: From US Department of Education, Office of Special Education Programs’ IDEA website &lt;a href="http://idea.ed.gov/object/fileDownload/model/TopicalBrief/field/PdfFile/primary_key/23"&gt;http://idea.ed.gov/object/fileDownload/model/TopicalBrief/field/PdfFile/primary_key/23&lt;/a&gt; &lt;/p&gt;
+&lt;p style="text-align: left;"&gt; &lt;/p&gt;
+&lt;h2 style="text-align: left;"&gt;Resources and References&lt;/h2&gt;
+&lt;p style="text-align: left;"&gt;Bradley, R., Danielson, L., &amp;amp; Hallahan, D.P. (Eds.) (2002). &lt;i&gt;Identification of learning disabilities: Research to practice&lt;/i&gt;. Mahwah, NJ: Erlbaum.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Fletcher, J.M., Lyon, G.R., Fuchs, L.S., &amp;amp; Barnes, M.A. (2007). &lt;i&gt;Learning disabilities: From identification to intervention&lt;/i&gt;. New York: Guilford.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;National Research Center on Learning Disabilities (2007). &lt;i&gt;SLD identification overview: General information and tools to get started&lt;/i&gt;. [Brochure]. Lawrence, KS: Author.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Shaywitz, Sally E., M.D., and Shaywitz, Bennett A., M.D., (August 2001) &lt;i&gt;The Neurobiology of Reading and Dyslexia, Focus on Basics&lt;/i&gt; (August 2001) World Education, Boston, Massachusetts. Retrieved from &lt;a href="http://www.ncsall.net/index.html@id=278.html"&gt;http://www.ncsall.net/index.html@id=278.html&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Shaywitz, Sally E., M.D., &amp;amp; Shaywitz, Shaywitz, Bennett A., M.D., (2007). “The neurobiology of reading and dyslexia.” Focus on Basics, Volume 8, Issue D, pages 1-7. World Education, Boston, Massachusetts. Retrieved from &lt;a href="http://www.ncsall.net/fileadmin/resources/fob/2007/fob_8d.pdf"&gt;http://www.ncsall.net/fileadmin/resources/fob/2007/fob_8d.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Swanson, H.L. (2009). Assessment of adults with learning disabilities: A quantitative synthesis of similarities and differences. In J.M. Taymans (Ed.), &lt;i&gt;Learning to achieve: A review of the research literature on serving adults with learning disabilities&lt;/i&gt;. Washington, DC: National Institute for Literacy.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Taymans, J.M. (2009). &lt;span class="nolink"&gt;Introduction&lt;/span&gt;. In J.M. Taymans (Ed.), &lt;i&gt;Learning to achieve: A review of the research literature on serving adults with learning disabilities&lt;/i&gt;. Washington, DC: National Institute for Literacy.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;U.S. Department of Education, Office of Special Education Programs, (2006, October). &lt;i&gt;Topic Brief: Identification of Specific Learning Disabilities&lt;/i&gt;, Washington, DC: Author. Available on the IDEA Web site at: http://IDEA.ed.gov. Retrieved from: &lt;a href="http://idea.ed.gov/object/fileDownload/model/TopicalBrief/field/PdfFile/primary_key/23"&gt;http://idea.ed.gov/object/fileDownload/model/TopicalBrief/field/PdfFile/primary_key/23&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;U.S. Department of Education, Office of Special Education and Rehabilitative Services, Rehabilitation Services Administration. (2005, January). &lt;i&gt;Guidelines for assessing the functional capacities of an individual with specific learning disabilities to determine significance of disability for order of selection purposes&lt;/i&gt;, Technical Assistance Circular RSA-TAC-05-01. Washington, DC: Author. Retrieved from &lt;a href="http://www.ed.gov/policy/speced/guid/rsa/tac-05-01.pdf"&gt;http://www.ed.gov/policy/speced/guid/rsa/tac-05-01.pdf&lt;/a&gt;  &lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;To print your certificate, &lt;span style="color: #800000;"&gt;please return to the &lt;a href="$@COURSEVIEWBYID*159@$"&gt;course home page&lt;/a&gt;&lt;/span&gt;.&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>4</revision>
+    <timemodified>1469562160</timemodified>
+  </page>
+</activity>

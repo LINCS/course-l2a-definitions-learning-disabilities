@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="116" moduleid="5915" modulename="book" contextid="19803">
+  <book id="116">
+    <name>Overview and Consensus Statement #1</name>
+    <intro>&lt;p&gt;section 1 of Session 1&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>0</numbering>
+    <customtitles>1</customtitles>
+    <timecreated>1462304248</timecreated>
+    <timemodified>1462304328</timemodified>
+    <chapters>
+      <chapter id="886">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Six consensus statements that help to define LD</title>
+        <content>&lt;h1 class="Subhead"&gt;Six consensus statements that help to define LD&lt;/h1&gt;
+&lt;p&gt;Now that we have established a consensus definition of LD, let’s look at our first guiding question.&lt;/p&gt;
+&lt;p&gt;Guiding Question #1 asks:&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;What are &lt;b&gt;six consensus statements&lt;/b&gt; that help us understand the definition of LD?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;In the next part of this lesson, we are going to explore the six consensus statements that help us define LD. &lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462304375</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="887">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Overview of the six consensus statements</title>
+        <content>&lt;h1 class="Subhead"&gt;Overview of the six consensus statements&lt;/h1&gt;
+&lt;p&gt;Let’s first take a look at all six of the consensus statements together, and then we will break them down one by one.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The concept of LD is valid and is supported by strong converging evidence.&lt;/li&gt;
+&lt;li&gt;LD are neurologically based and intrinsic to the individual.&lt;/li&gt;
+&lt;li&gt;Individuals with LD show intra-individual differences in skills and abilities.&lt;/li&gt;
+&lt;li&gt;LD persist across the life span.&lt;/li&gt;
+&lt;li&gt;LD may occur in combination with other disabling conditions, but they are not due to other conditions.&lt;/li&gt;
+&lt;li&gt;LD are evident across ethnic, cultural, language, and economic groups.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;These six consensus statements are important because they represent what is agreed upon in the field of LD. &lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462304411</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="888">
+        <pagenum>3</pagenum>
+        <subchapter>0</subchapter>
+        <title>Research supports the existence of LD</title>
+        <content>&lt;h1 class="Subhead"&gt;Research supports the existence of LD&lt;/h1&gt;
+&lt;p&gt;Let’s begin with the first statement. “&lt;b&gt;The concept of LD is valid and is supported by strong converging evidence.&lt;/b&gt;”&lt;/p&gt;
+&lt;p&gt;There is a strong evidence base supporting the existence of LD. This evidence is based on two types of research:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;brain function research; and&lt;/li&gt;
+&lt;li&gt;educational intervention research. &lt;/li&gt;
+&lt;/ul&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462304526</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="889">
+        <pagenum>4</pagenum>
+        <subchapter>0</subchapter>
+        <title>Brain function research shows differences in individuals with LD</title>
+        <content>&lt;h1 class="Subhead"&gt;Brain function research shows differences in individuals with LD&lt;/h1&gt;
+&lt;p&gt;Some research focuses on brain function. Studies using functional MRI technology reveal differences in brain functioning between individuals with and without characteristics associated with LD. &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/71019254.jpg" width="600" height="484" alt="Photo of a medical professional examining MRI images of the brain." /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462304605</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="890">
+        <pagenum>5</pagenum>
+        <subchapter>0</subchapter>
+        <title>Education intervention research focuses on pre-K-12 education</title>
+        <content>&lt;h1 class="Subhead"&gt;Education intervention research focuses on pre-K-12 education&lt;/h1&gt;
+&lt;p&gt;The other type of research base is from education intervention studies, which consistently show that there is a group of individuals who struggle with learning despite powerful interventions. This research focuses on pre-K-12 education. Children with LD are the largest group of individuals served by special education, constituting almost 50 percent of students with disabilities and more than 5 percent of the total school-aged population. &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/121350642.jpg" width="570" height="406" alt="Photo of a teacher reading to a group of young students." /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462304741</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="891">
+        <pagenum>6</pagenum>
+        <subchapter>0</subchapter>
+        <title>LD are not readily apparent</title>
+        <content>&lt;h1 class="Subhead"&gt;LD are not readily apparent&lt;/h1&gt;
+&lt;p&gt;One reason this consensus statement comes first is that LD are “hidden,” which makes them difficult to identify, understand and accept as a real disability. For example, a person who has great reading difficulty will appear normal until asked to read independently, when the hidden disability becomes apparent. This is in contrast to someone with a physical disability that is apparent from the moment we meet the person. In this case, the associated limitations are more easily understood. &lt;/p&gt;
+&lt;p&gt;&lt;span style="line-height: 1.231;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/LD_notReadilyApparent.jpg" width="570" height="234" alt="Two photos depicting a female student struggling to understand and a female office worker in a wheelchair. Caption: “Learning disabilities are more difficult to identify than physical disabilities.”" /&gt;&lt;/p&gt;
+&lt;p&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #800000;"&gt;Continue on to Consensus Statement #2&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1468508353</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="120" moduleid="5919" modulename="book" contextid="19807">
+  <book id="120">
+    <name>Consensus Statement #5</name>
+    <intro>&lt;h1 class="Subhead"&gt;section 5&lt;/h1&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>0</numbering>
+    <customtitles>1</customtitles>
+    <timecreated>1462397687</timecreated>
+    <timemodified>1462397739</timemodified>
+    <chapters>
+      <chapter id="910">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>LD are not due to other conditions</title>
+        <content>&lt;h1 class="Subhead"&gt;LD are not due to other conditions&lt;/h1&gt;
+&lt;p&gt;Now let’s move on to consensus statement #5. “&lt;b&gt;LD may occur in combination with other disabling conditions, but they are not due to other conditions&lt;/b&gt;.” &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/86524646_cropped.jpg" width="500" height="472" alt="Photo of two young adults working on a math problem at the board." /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462459185</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="911">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>LD are not caused by “exclusionary” factors</title>
+        <content>&lt;h1 class="Subhead"&gt;LD are not caused by “exclusionary” factors&lt;/h1&gt;
+&lt;p&gt;Learners may experience LD in combination with other disabilities. This is known as comorbidity or co-occurrence. For example, an individual may have both LD and ADHD (attention deficit hyperactivity disorder), or an adult may have LD and mental health issues, such as depression. An individual may have learning disabilities and face socioeconomic disadvantages or may have limited experience with academic English. Although LD often exist in combination with other challenges, LD cannot be caused by these factors, known as “exclusionary” factors.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/92410288.jpg" width="550" height="469" alt="Illustration of a human head in profile, with jigsaw pieces fitting together inside the brain." /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462459242</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="912">
+        <pagenum>3</pagenum>
+        <subchapter>0</subchapter>
+        <title>Vision and hearing assessments help rule out sensory issues as the cause of LD</title>
+        <content>&lt;h1 class="Subhead"&gt;Vision and hearing assessments help rule out sensory issues as the cause of LD&lt;/h1&gt;
+&lt;p&gt;For example, when we think someone may have LD, we first make sure the individual receives vision and hearing assessments to rule out those sensory issues as the cause of the learning deficits. &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/140266656.jpg" width="550" height="367" alt="Photo of an eye doctor examining a woman’s eyes." /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462459742</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="913">
+        <pagenum>4</pagenum>
+        <subchapter>0</subchapter>
+        <title>Mental illness may be the cause of learning deficits</title>
+        <content>&lt;h1 class="Subhead"&gt;Mental illness may be the cause of learning deficits&lt;/h1&gt;
+&lt;p&gt;This is also the case for individuals with emotional problems who struggle in school because of their mental health needs. These individuals may have learning deficits, but the cause is mental illness, not a learning disability. &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/87547291.jpg" width="550" height="367" alt="Photo of a young adult female student holding her head in frustration." /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462459848</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="914">
+        <pagenum>5</pagenum>
+        <subchapter>0</subchapter>
+        <title>Chaotic school experiences may be the cause of learning deficits</title>
+        <content>&lt;h1 class="Subhead"&gt;Chaotic school experiences may be the cause of learning deficits&lt;/h1&gt;
+&lt;p&gt;Some individuals have had chaotic school experiences. Some young adults may exhibit learning deficits based on not attending school, attending low-performing schools or being in a series of programs and services that have not been able to meet their learning and social needs.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/HighSchoolStudents.jpg" width="550" height="413" alt="Photo of a group of high school students hanging out." /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462460115</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="915">
+        <pagenum>6</pagenum>
+        <subchapter>0</subchapter>
+        <title>Distinguishing causation from co-occurrence</title>
+        <content>&lt;h1 class="Subhead"&gt;Distinguishing causation from co-occurrence&lt;/h1&gt;
+&lt;p&gt;One issue is that current identification procedures cannot completely distinguish &lt;b&gt;causation&lt;/b&gt; from &lt;b&gt;co-occurrence&lt;/b&gt;. This creates a situation where individuals may be erroneously included or excluded from LD identification on the basis of co-occurring conditions.&lt;/p&gt;
+&lt;p&gt;This situation may be further complicated. Individuals who may be struggling with learning because of many of these exclusionary conditions &lt;i&gt;may&lt;/i&gt; also have similar characteristics to individuals with LD.&lt;/p&gt;
+&lt;p&gt;For example, a person who has lived in poverty with little chance to read at home and poor reading instruction may present the same reading needs as an individual whose reading challenges are caused by LD. &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/121684806.jpg" width="550" height="367" alt="Photo of a male high school student sitting on train tracks." /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #800000;"&gt;Continue on to Consensus Statement #6&lt;/span&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1468508659</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

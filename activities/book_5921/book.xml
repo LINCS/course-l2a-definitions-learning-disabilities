@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="122" moduleid="5921" modulename="book" contextid="19809">
+  <book id="122">
+    <name>Introduction and Activities</name>
+    <intro>&lt;p&gt;gq 2&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>0</numbering>
+    <customtitles>1</customtitles>
+    <timecreated>1462461609</timecreated>
+    <timemodified>1462461645</timemodified>
+    <chapters>
+      <chapter id="919">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Examples from work with adults with LD</title>
+        <content>&lt;h1 class="Subhead"&gt;Examples from work with adults with LD&lt;/h1&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;Our second guiding question asks:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;What are &lt;b&gt;examples from your work &lt;/b&gt;with adults with LD that are associated with the six consensus statements?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;_____&lt;/p&gt;
+&lt;p&gt;Let’s explore this in more depth.&lt;/p&gt;
+&lt;p&gt;We know that you may work with some individuals with diagnosed LD. We also know that many of your clients or students may be struggling with undiagnosed LD. In either case, exploring what it means to have LD can help you better understand the strengths and needs of the individuals with whom you work. &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/87725967_cropped.jpg" width="550" height="437" alt="Photo of a confident teacher with her group of adult students." /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462557357</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="920">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Activity: Reflect on the six consensus statements and your work with adults with LD</title>
+        <content>&lt;h1 class="Subhead"&gt;Activity: Reflect on the six consensus statements and your work with adults with LD&lt;/h1&gt;
+&lt;p class="Label"&gt;As we reviewed the six consensus statements previously, you likely made comparisons – along the way – to adults you have worked with as clients and students who had a diagnosed or undiagnosed LD. In light of your new understanding of the consensus definition of LD, re-examine one or more examples from your work with adults. Select two or three of these adults from your experience, and consider how they fit one or more of the six consensus statements.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Consensus Statements:&lt;/b&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The concept of LD is valid and is supported by strong converging evidence.&lt;/li&gt;
+&lt;li&gt;LD are neurologically based and intrinsic to the individual.&lt;/li&gt;
+&lt;li&gt;Individuals with LD show intra-individual differences in skills and abilities.&lt;/li&gt;
+&lt;li&gt;LD persist across the life span.&lt;/li&gt;
+&lt;li&gt;LD may occur in combination with other disabling conditions, but they are not due to other conditions.&lt;/li&gt;
+&lt;li&gt;LD are evident across ethnic, cultural, language, and economic groups.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p class="Label"&gt;When you are done with your reflections, please click on &lt;b&gt;forward arrow&lt;/b&gt; to continue. &lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462469685</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="921">
+        <pagenum>3</pagenum>
+        <subchapter>0</subchapter>
+        <title>Activity: Share your reflections on the six consensus statements and your work with adults with LD</title>
+        <content>&lt;h1 class="Subhead"&gt;Activity: Share your reflections on the six consensus statements and your work with adults with LD&lt;/h1&gt;
+&lt;p&gt;Which of the six consensus statements do you find most relevant to your work with individuals with LD?&lt;/p&gt;
+&lt;p class="Label"&gt;&lt;b&gt;Consensus Statements:&lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The concept of LD is valid and is supported by strong converging evidence.&lt;/li&gt;
+&lt;li&gt;LD are neurologically based and intrinsic to the individual.&lt;/li&gt;
+&lt;li&gt;Individuals with LD show intra-individual differences in skills and abilities.&lt;/li&gt;
+&lt;li&gt;LD persist across the life span.&lt;/li&gt;
+&lt;li&gt;LD may occur in combination with other disabling conditions, but they are not due to other conditions.&lt;/li&gt;
+&lt;li&gt;LD are evident across ethnic, cultural, language, and economic groups.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;How have your selected consensus statements affected (or how will they affect) your work with adults with learning disabilities?&lt;/p&gt;
+&lt;p&gt;Please share the ideas and insights you associated with your selected consensus statements and how they affect your work in the &lt;a href="https://community.lincs.ed.gov/discussion/online-course-learning-achieve-definitions-learning-disabilities" target="_blank"&gt;LINCS Disabilities in Adult Education Group&lt;/a&gt; before moving on.&lt;/p&gt;
+&lt;p class="Label"&gt;&lt;span style="color: #800000;"&gt;When you are finished posting your thoughts, please continue on to explore major issues related to the LD assessment process that may also affect your work with adults having a diagnosed or undiagnosed LD. &lt;/span&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1462471942</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>
